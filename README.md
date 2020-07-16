@@ -2,14 +2,13 @@
 
 End to end encrypted pastebin or gist. Open source.
 
-  
-  
-
 #### TLDR; Once finished this software will create provably secure sharing of text snippets with end to end encryption not exposed to any server🪄💫.
-##### To do list
-[ ] React PWA boiler plate
 
-[ ] Node boiler plate
+##### To do list
+
+[x] React PWA boiler plate
+
+[x] Node boiler plate
 
 [ ] Offline functionality "send when online"
 
@@ -19,7 +18,7 @@ End to end encrypted pastebin or gist. Open source.
 
 [ ] Burnable notes, remove after read
 
-[ ] Client side encryption 
+[ ] Client side encryption
 
 [ ] Client side decryption
 
