@@ -1,8 +1,8 @@
-# shhbin
+# shhbin.com
 
 End to end encrypted pastebin or gist. Open source.
 
-#### TLDR; Once finished this software will create provably secure sharing of text snippets with end to end encryption not exposed to any server🪄💫.
+#### TLDR; Once finished this software will create provably secure sharing of text snippets with end to end encryption not exposed to any server🦄💫.
 
 ##### To do list
 
@@ -27,3 +27,5 @@ End to end encrypted pastebin or gist. Open source.
 [ ] Size restrictions
 
 [ ] SaaS premium functionality - some ideas: files, bigger pastes, no ads
+
+[ ] Real time collaboration like google docs
